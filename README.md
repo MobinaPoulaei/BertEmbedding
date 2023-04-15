@@ -1,0 +1,3 @@
+# BertEmbedding
+The way BERT look at the words...
+Here, you can find out how BERT is good at embedding, as it can represent one word in four different meanings.
