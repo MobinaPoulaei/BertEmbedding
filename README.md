@@ -1,3 +1,3 @@
 # BertEmbedding
 The way BERT looks at the words...
-Here, you can find out how BERT is good at embedding, as it can represent one word in four different meanings.
+Here, you can find out how BERT is good at embedding, as it can represent "present" word in four different meanings.
